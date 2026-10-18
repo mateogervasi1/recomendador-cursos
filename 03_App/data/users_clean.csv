@@ -1,0 +1,501 @@
+user_id,interes_principal,interes_secundario,nivel_experiencia,nivel_estudio,idioma_preferido,fecha_registro,n_eventos,segmento_historial
+1,Marketing Digital,Python,Intermedio,Profesional,Español,2026-03-03 13:14:00,28,Con historial
+2,Python,Marketing Digital,Principiante,Profesional,Portugués,2026-01-26 04:35:00,22,Con historial
+3,Python,Marketing Digital,Avanzado,Universitario,Español,2026-04-22 02:56:00,28,Con historial
+4,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-04-28 16:57:00,13,Con historial
+5,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-01-21 11:59:00,36,Con historial
+6,Data Science,Python,Avanzado,Universitario,Español,2026-03-01 00:27:00,33,Con historial
+7,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-14 22:27:00,2,Historial insuficiente
+8,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-01-01 09:45:00,5,Con historial
+9,Data Science,Python,Intermedio,Universitario,Español,2026-02-14 19:32:00,13,Con historial
+10,Marketing Digital,Data Science,Principiante,Profesional,Español,2026-03-25 06:09:00,11,Con historial
+11,Python,Marketing Digital,Intermedio,Universitario,Inglés,2026-02-20 02:44:00,17,Con historial
+12,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-02-10 19:22:00,39,Con historial
+13,Data Science,Marketing Digital,Principiante,Profesional,Portugués,2026-03-11 00:08:00,16,Con historial
+14,Data Science,Python,Principiante,Autodidacta,Español,2026-01-28 05:29:00,54,Con historial
+15,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-03-21 10:39:00,29,Con historial
+16,Python,Marketing Digital,Principiante,Profesional,Español,2026-04-17 00:06:00,0,Sin historial
+17,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-03-28 07:04:00,29,Con historial
+18,Python,Ninguno,Avanzado,Universitario,Español,2026-01-14 23:12:00,40,Con historial
+19,Python,Ninguno,Principiante,Universitario,Español,2026-05-07 15:52:00,1,Historial insuficiente
+20,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-01-27 05:55:00,13,Con historial
+21,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-04-25 17:19:00,15,Con historial
+22,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-02-24 02:02:00,7,Con historial
+23,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-04-28 09:56:00,14,Con historial
+24,Data Science,Ninguno,Intermedio,Profesional,Español,2026-01-31 22:35:00,5,Con historial
+25,Python,Ninguno,Principiante,Profesional,Español,2026-01-28 23:59:00,24,Con historial
+26,Marketing Digital,Python,Avanzado,Profesional,Español,2026-03-16 13:18:00,30,Con historial
+27,Data Science,Python,Avanzado,Universitario,Español,2026-01-05 22:34:00,52,Con historial
+28,Marketing Digital,Python,Principiante,Profesional,Español,2026-02-03 19:04:00,3,Historial insuficiente
+29,Data Science,Marketing Digital,Principiante,Universitario,Portugués,2026-04-19 14:27:00,22,Con historial
+30,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-05-06 14:35:00,8,Con historial
+31,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-01-13 02:50:00,28,Con historial
+32,Marketing Digital,Data Science,Principiante,Universitario,Inglés,2026-05-13 07:29:00,9,Con historial
+33,Data Science,Ninguno,Avanzado,Profesional,Español,2026-04-30 15:04:00,19,Con historial
+34,Python,Marketing Digital,Intermedio,Universitario,Inglés,2026-05-11 10:52:00,0,Sin historial
+35,Marketing Digital,Python,Intermedio,Autodidacta,Portugués,2026-04-15 18:21:00,1,Historial insuficiente
+36,Data Science,Python,Intermedio,Autodidacta,Español,2026-04-12 02:57:00,0,Sin historial
+37,Data Science,Marketing Digital,Avanzado,Autodidacta,Español,2026-03-20 18:20:00,27,Con historial
+38,Python,Ninguno,Principiante,Universitario,Español,2026-04-08 22:02:00,14,Con historial
+39,Python,Marketing Digital,Principiante,Universitario,Inglés,2026-05-18 20:48:00,9,Con historial
+40,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-16 01:53:00,16,Con historial
+41,Data Science,Ninguno,Avanzado,Universitario,Español,2026-02-17 08:45:00,7,Con historial
+42,Python,Ninguno,Intermedio,Universitario,Español,2026-01-11 20:50:00,18,Con historial
+43,Python,Data Science,Intermedio,Universitario,Español,2026-05-22 17:18:00,5,Con historial
+44,Python,Marketing Digital,Principiante,Autodidacta,Portugués,2026-03-08 18:57:00,0,Sin historial
+45,Marketing Digital,Python,Avanzado,Universitario,Español,2026-04-12 07:14:00,8,Con historial
+46,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-07 04:02:00,15,Con historial
+47,Data Science,Marketing Digital,Principiante,Autodidacta,Portugués,2026-05-29 15:36:00,4,Historial insuficiente
+48,Python,Ninguno,Avanzado,Profesional,Español,2026-01-25 06:25:00,3,Historial insuficiente
+49,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-04-30 22:15:00,4,Historial insuficiente
+50,Data Science,Python,Principiante,Profesional,Portugués,2026-05-14 02:43:00,11,Con historial
+51,Data Science,Marketing Digital,Intermedio,Autodidacta,Portugués,2026-01-08 07:57:00,1,Historial insuficiente
+52,Marketing Digital,Data Science,Principiante,Profesional,Portugués,2026-04-24 02:44:00,2,Historial insuficiente
+53,Data Science,Ninguno,Principiante,Profesional,Español,2026-02-23 05:01:00,28,Con historial
+54,Python,Ninguno,Principiante,Profesional,Español,2026-04-08 06:57:00,20,Con historial
+55,Python,Marketing Digital,Principiante,Universitario,Español,2026-03-19 02:34:00,9,Con historial
+56,Python,Marketing Digital,Avanzado,Universitario,Portugués,2026-02-08 23:04:00,43,Con historial
+57,Marketing Digital,Python,Intermedio,Profesional,Español,2026-01-21 06:48:00,20,Con historial
+58,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-18 13:01:00,10,Con historial
+59,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-01-16 11:58:00,7,Con historial
+60,Python,Ninguno,Principiante,Universitario,Español,2026-04-06 16:03:00,13,Con historial
+61,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-02-22 17:05:00,32,Con historial
+62,Marketing Digital,Ninguno,Avanzado,Universitario,Español,2026-02-02 11:53:00,14,Con historial
+63,Data Science,Python,Avanzado,Autodidacta,Español,2026-04-14 18:47:00,23,Con historial
+64,Marketing Digital,Python,Principiante,Universitario,Portugués,2026-04-14 00:40:00,18,Con historial
+65,Data Science,Marketing Digital,Principiante,Profesional,Portugués,2026-03-22 21:00:00,23,Con historial
+66,Data Science,Python,Principiante,Autodidacta,Español,2026-05-21 05:51:00,11,Con historial
+67,Data Science,Ninguno,Intermedio,Universitario,Español,2026-02-27 19:29:00,23,Con historial
+68,Marketing Digital,Python,Principiante,Autodidacta,Inglés,2026-05-06 09:06:00,22,Con historial
+69,Data Science,Ninguno,Intermedio,Universitario,Español,2026-01-12 06:30:00,39,Con historial
+70,Python,Marketing Digital,Intermedio,Universitario,Español,2026-04-21 23:24:00,18,Con historial
+71,Marketing Digital,Data Science,Principiante,Profesional,Español,2026-05-29 06:25:00,4,Historial insuficiente
+72,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-05-07 23:45:00,3,Historial insuficiente
+73,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-03-28 22:48:00,30,Con historial
+74,Data Science,Ninguno,Principiante,Profesional,Español,2026-04-05 00:21:00,11,Con historial
+75,Python,Ninguno,Principiante,Universitario,Español,2026-02-22 23:51:00,12,Con historial
+76,Marketing Digital,Ninguno,Intermedio,Profesional,Español,2026-04-12 22:09:00,3,Historial insuficiente
+77,Python,Data Science,Principiante,Profesional,Español,2026-04-26 13:25:00,15,Con historial
+78,Data Science,Python,Principiante,Profesional,Inglés,2026-05-30 17:37:00,14,Con historial
+79,Marketing Digital,Ninguno,Intermedio,Profesional,Portugués,2026-03-15 20:52:00,15,Con historial
+80,Marketing Digital,Python,Intermedio,Universitario,Español,2026-01-10 04:42:00,6,Con historial
+81,Python,Data Science,Principiante,Profesional,Español,2026-03-31 09:05:00,11,Con historial
+82,Marketing Digital,Python,Intermedio,Profesional,Español,2026-01-18 20:29:00,3,Historial insuficiente
+83,Marketing Digital,Python,Avanzado,Profesional,Español,2026-02-06 17:09:00,36,Con historial
+84,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-02-19 07:36:00,11,Con historial
+85,Data Science,Python,Intermedio,Universitario,Español,2026-04-20 15:42:00,26,Con historial
+86,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-01-28 13:43:00,13,Con historial
+87,Marketing Digital,Data Science,Avanzado,Universitario,Portugués,2026-01-25 20:43:00,4,Historial insuficiente
+88,Data Science,Ninguno,Principiante,Universitario,Inglés,2026-01-07 17:52:00,15,Con historial
+89,Python,Ninguno,Avanzado,Universitario,Español,2026-05-11 23:40:00,9,Con historial
+90,Python,Data Science,Intermedio,Profesional,Español,2026-04-15 00:37:00,22,Con historial
+91,Data Science,Python,Principiante,Universitario,Español,2026-01-06 23:48:00,7,Con historial
+92,Marketing Digital,Data Science,Principiante,Autodidacta,Español,2026-01-05 05:51:00,23,Con historial
+93,Data Science,Python,Intermedio,Profesional,Español,2026-03-25 19:14:00,0,Sin historial
+94,Python,Marketing Digital,Intermedio,Autodidacta,Español,2026-02-12 09:07:00,17,Con historial
+95,Data Science,Ninguno,Principiante,Profesional,Portugués,2026-03-31 12:13:00,21,Con historial
+96,Python,Data Science,Intermedio,Profesional,Español,2026-03-07 04:35:00,27,Con historial
+97,Python,Ninguno,Avanzado,Profesional,Inglés,2026-05-19 11:56:00,13,Con historial
+98,Python,Data Science,Principiante,Autodidacta,Español,2026-02-13 04:07:00,16,Con historial
+99,Data Science,Python,Principiante,Profesional,Español,2026-04-12 20:55:00,16,Con historial
+100,Python,Marketing Digital,Principiante,Profesional,Español,2026-01-09 02:36:00,0,Sin historial
+101,Data Science,Marketing Digital,Intermedio,Profesional,Español,2026-05-24 09:06:00,16,Con historial
+102,Data Science,Ninguno,Principiante,Profesional,Español,2026-05-28 02:44:00,5,Con historial
+103,Marketing Digital,Ninguno,Avanzado,Universitario,Inglés,2026-04-21 20:40:00,22,Con historial
+104,Marketing Digital,Ninguno,Principiante,Profesional,Español,2026-03-11 18:46:00,32,Con historial
+105,Python,Data Science,Intermedio,Profesional,Español,2026-02-02 23:59:00,3,Historial insuficiente
+106,Python,Ninguno,Principiante,Autodidacta,Español,2026-05-02 21:04:00,8,Con historial
+107,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-04-21 10:52:00,11,Con historial
+108,Python,Marketing Digital,Intermedio,Profesional,Español,2026-02-03 07:02:00,0,Sin historial
+109,Data Science,Python,Principiante,Autodidacta,Español,2026-03-09 16:23:00,14,Con historial
+110,Marketing Digital,Data Science,Intermedio,Profesional,Portugués,2026-03-11 10:05:00,0,Sin historial
+111,Data Science,Marketing Digital,Avanzado,Universitario,Español,2026-05-04 23:05:00,19,Con historial
+112,Python,Marketing Digital,Avanzado,Universitario,Español,2026-04-13 13:50:00,2,Historial insuficiente
+113,Data Science,Marketing Digital,Avanzado,Universitario,Español,2026-04-07 11:24:00,3,Historial insuficiente
+114,Data Science,Marketing Digital,Principiante,Universitario,Portugués,2026-04-08 11:23:00,4,Historial insuficiente
+115,Marketing Digital,Ninguno,Intermedio,Universitario,Español,2026-02-10 13:42:00,5,Con historial
+116,Python,Data Science,Avanzado,Autodidacta,Español,2026-02-25 18:10:00,1,Historial insuficiente
+117,Python,Marketing Digital,Principiante,Profesional,Español,2026-01-07 20:23:00,41,Con historial
+118,Python,Data Science,Principiante,Universitario,Español,2026-04-29 00:59:00,18,Con historial
+119,Python,Data Science,Intermedio,Profesional,Español,2026-03-06 22:48:00,18,Con historial
+120,Python,Ninguno,Principiante,Universitario,Español,2026-03-07 17:39:00,14,Con historial
+121,Marketing Digital,Ninguno,Intermedio,Autodidacta,Español,2026-02-06 19:17:00,10,Con historial
+122,Data Science,Ninguno,Avanzado,Universitario,Español,2026-02-01 09:56:00,9,Con historial
+123,Python,Ninguno,Intermedio,Profesional,Español,2026-03-30 04:10:00,13,Con historial
+124,Python,Data Science,Principiante,Universitario,Portugués,2026-02-04 21:11:00,29,Con historial
+125,Marketing Digital,Ninguno,Principiante,Profesional,Portugués,2026-01-10 15:09:00,32,Con historial
+126,Data Science,Ninguno,Principiante,Universitario,Español,2026-04-26 03:02:00,23,Con historial
+127,Python,Ninguno,Principiante,Autodidacta,Español,2026-02-26 11:17:00,41,Con historial
+128,Data Science,Python,Intermedio,Universitario,Español,2026-02-27 00:51:00,13,Con historial
+129,Python,Ninguno,Intermedio,Autodidacta,Portugués,2026-03-06 16:45:00,28,Con historial
+130,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-05-03 06:10:00,22,Con historial
+131,Data Science,Ninguno,Principiante,Autodidacta,Español,2026-02-18 03:01:00,16,Con historial
+132,Python,Data Science,Avanzado,Autodidacta,Español,2026-04-24 16:56:00,22,Con historial
+133,Data Science,Marketing Digital,Principiante,Autodidacta,Portugués,2026-05-21 22:22:00,8,Con historial
+134,Data Science,Ninguno,Intermedio,Universitario,Español,2026-04-10 03:08:00,8,Con historial
+135,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-03-06 18:03:00,8,Con historial
+136,Python,Ninguno,Intermedio,Universitario,Inglés,2026-04-23 04:03:00,27,Con historial
+137,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-03-10 16:26:00,20,Con historial
+138,Data Science,Ninguno,Intermedio,Profesional,Portugués,2026-03-04 03:56:00,8,Con historial
+139,Python,Data Science,Principiante,Autodidacta,Español,2026-03-20 19:01:00,34,Con historial
+140,Python,Data Science,Intermedio,Autodidacta,Español,2026-02-17 15:48:00,12,Con historial
+141,Marketing Digital,Ninguno,Principiante,Profesional,Portugués,2026-01-16 15:18:00,6,Con historial
+142,Data Science,Ninguno,Principiante,Profesional,Español,2026-03-04 05:28:00,26,Con historial
+143,Data Science,Ninguno,Intermedio,Autodidacta,Español,2026-01-19 13:53:00,12,Con historial
+144,Data Science,Python,Principiante,Autodidacta,Español,2026-03-03 13:35:00,8,Con historial
+145,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-03-25 12:58:00,12,Con historial
+146,Python,Ninguno,Principiante,Profesional,Español,2026-05-20 14:34:00,3,Historial insuficiente
+147,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-01-06 10:24:00,12,Con historial
+148,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-04-04 05:15:00,12,Con historial
+149,Python,Marketing Digital,Avanzado,Universitario,Español,2026-03-10 15:51:00,17,Con historial
+150,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-01-04 00:56:00,22,Con historial
+151,Data Science,Ninguno,Intermedio,Autodidacta,Español,2026-02-07 10:22:00,40,Con historial
+152,Python,Ninguno,Avanzado,Autodidacta,Español,2026-01-18 18:33:00,10,Con historial
+153,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-02-02 12:28:00,39,Con historial
+154,Python,Ninguno,Intermedio,Universitario,Portugués,2026-02-11 04:27:00,27,Con historial
+155,Data Science,Ninguno,Avanzado,Universitario,Español,2026-03-02 04:42:00,37,Con historial
+156,Data Science,Ninguno,Intermedio,Profesional,Español,2026-03-21 08:33:00,15,Con historial
+157,Python,Ninguno,Principiante,Profesional,Español,2026-01-01 03:34:00,32,Con historial
+158,Marketing Digital,Data Science,Principiante,Profesional,Portugués,2026-01-25 06:44:00,27,Con historial
+159,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-01-15 00:50:00,17,Con historial
+160,Marketing Digital,Python,Intermedio,Universitario,Español,2026-03-24 10:49:00,17,Con historial
+161,Python,Ninguno,Avanzado,Profesional,Español,2026-02-19 08:40:00,10,Con historial
+162,Python,Marketing Digital,Avanzado,Universitario,Español,2026-03-24 06:14:00,18,Con historial
+163,Data Science,Marketing Digital,Principiante,Universitario,Portugués,2026-02-03 06:34:00,14,Con historial
+164,Python,Data Science,Intermedio,Universitario,Inglés,2026-01-04 15:14:00,11,Con historial
+165,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-22 04:55:00,19,Con historial
+166,Marketing Digital,Data Science,Avanzado,Autodidacta,Español,2026-01-17 05:55:00,19,Con historial
+167,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-20 00:41:00,11,Con historial
+168,Data Science,Python,Avanzado,Universitario,Español,2026-01-22 23:34:00,12,Con historial
+169,Data Science,Python,Intermedio,Autodidacta,Portugués,2026-05-28 04:36:00,19,Con historial
+170,Marketing Digital,Ninguno,Principiante,Profesional,Español,2026-04-03 15:35:00,11,Con historial
+171,Python,Marketing Digital,Principiante,Universitario,Español,2026-04-02 13:03:00,3,Historial insuficiente
+172,Marketing Digital,Data Science,Intermedio,Universitario,Español,2026-05-29 00:07:00,16,Con historial
+173,Python,Data Science,Principiante,Universitario,Inglés,2026-01-14 06:23:00,6,Con historial
+174,Python,Ninguno,Intermedio,Profesional,Español,2026-05-27 04:12:00,10,Con historial
+175,Marketing Digital,Ninguno,Avanzado,Universitario,Español,2026-01-31 14:27:00,0,Sin historial
+176,Python,Ninguno,Intermedio,Universitario,Español,2026-04-04 11:03:00,12,Con historial
+177,Data Science,Ninguno,Principiante,Universitario,Español,2026-03-05 00:18:00,17,Con historial
+178,Data Science,Ninguno,Principiante,Profesional,Español,2026-02-27 14:14:00,5,Con historial
+179,Python,Ninguno,Principiante,Universitario,Portugués,2026-05-20 16:29:00,15,Con historial
+180,Python,Marketing Digital,Avanzado,Autodidacta,Portugués,2026-01-23 09:13:00,12,Con historial
+181,Data Science,Python,Principiante,Universitario,Portugués,2026-05-30 13:27:00,2,Historial insuficiente
+182,Marketing Digital,Ninguno,Principiante,Profesional,Portugués,2026-02-26 20:51:00,0,Sin historial
+183,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-04-08 07:35:00,16,Con historial
+184,Python,Ninguno,Avanzado,Universitario,Español,2026-05-26 04:28:00,5,Con historial
+185,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-01-09 15:22:00,10,Con historial
+186,Marketing Digital,Python,Avanzado,Autodidacta,Español,2026-05-19 10:19:00,13,Con historial
+187,Marketing Digital,Ninguno,Intermedio,Autodidacta,Inglés,2026-03-27 04:07:00,6,Con historial
+188,Marketing Digital,Data Science,Intermedio,Universitario,Español,2026-04-16 15:50:00,21,Con historial
+189,Python,Ninguno,Avanzado,Universitario,Inglés,2026-01-23 09:04:00,8,Con historial
+190,Python,Ninguno,Intermedio,Autodidacta,Español,2026-03-22 00:12:00,13,Con historial
+191,Marketing Digital,Python,Avanzado,Profesional,Español,2026-04-12 00:39:00,30,Con historial
+192,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-03-10 10:29:00,5,Con historial
+193,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-01-24 05:57:00,36,Con historial
+194,Python,Data Science,Intermedio,Profesional,Español,2026-02-06 14:50:00,44,Con historial
+195,Python,Marketing Digital,Intermedio,Profesional,Español,2026-05-09 03:49:00,6,Con historial
+196,Data Science,Ninguno,Avanzado,Profesional,Español,2026-01-06 04:06:00,3,Historial insuficiente
+197,Data Science,Ninguno,Avanzado,Autodidacta,Inglés,2026-04-17 07:54:00,20,Con historial
+198,Marketing Digital,Data Science,Intermedio,Profesional,Español,2026-05-30 21:48:00,3,Historial insuficiente
+199,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-01-02 02:56:00,22,Con historial
+200,Python,Data Science,Principiante,Profesional,Portugués,2026-01-25 03:46:00,28,Con historial
+201,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-04-12 02:55:00,19,Con historial
+202,Data Science,Ninguno,Principiante,Universitario,Inglés,2026-01-09 23:58:00,10,Con historial
+203,Python,Marketing Digital,Principiante,Universitario,Español,2026-03-30 11:15:00,21,Con historial
+204,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-04-13 14:24:00,24,Con historial
+205,Data Science,Python,Principiante,Profesional,Español,2026-03-30 05:20:00,32,Con historial
+206,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-02-24 18:40:00,26,Con historial
+207,Data Science,Python,Principiante,Universitario,Portugués,2026-04-15 14:13:00,6,Con historial
+208,Data Science,Python,Avanzado,Profesional,Portugués,2026-03-31 03:28:00,29,Con historial
+209,Data Science,Marketing Digital,Intermedio,Profesional,Español,2026-02-01 03:30:00,44,Con historial
+210,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-03-26 11:17:00,31,Con historial
+211,Data Science,Ninguno,Principiante,Autodidacta,Español,2026-05-13 06:52:00,9,Con historial
+212,Marketing Digital,Data Science,Principiante,Profesional,Español,2026-04-11 00:36:00,17,Con historial
+213,Python,Marketing Digital,Avanzado,Universitario,Inglés,2026-03-12 18:27:00,36,Con historial
+214,Marketing Digital,Ninguno,Principiante,Profesional,Español,2026-02-18 05:42:00,30,Con historial
+215,Data Science,Python,Intermedio,Profesional,Español,2026-01-13 21:11:00,0,Sin historial
+216,Marketing Digital,Data Science,Avanzado,Universitario,Español,2026-02-06 16:39:00,30,Con historial
+217,Python,Ninguno,Avanzado,Universitario,Portugués,2026-01-02 16:16:00,6,Con historial
+218,Python,Data Science,Principiante,Universitario,Inglés,2026-05-28 23:51:00,2,Historial insuficiente
+219,Data Science,Ninguno,Principiante,Profesional,Español,2026-02-03 08:56:00,23,Con historial
+220,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-03 05:33:00,22,Con historial
+221,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-01-26 07:07:00,11,Con historial
+222,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-02-12 12:58:00,14,Con historial
+223,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-03-04 17:48:00,8,Con historial
+224,Marketing Digital,Python,Avanzado,Universitario,Español,2026-02-18 15:52:00,28,Con historial
+225,Data Science,Marketing Digital,Intermedio,Autodidacta,Español,2026-04-30 18:04:00,26,Con historial
+226,Marketing Digital,Python,Intermedio,Universitario,Español,2026-05-24 15:42:00,15,Con historial
+227,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-05-12 07:04:00,3,Historial insuficiente
+228,Data Science,Ninguno,Intermedio,Autodidacta,Español,2026-01-24 00:53:00,6,Con historial
+229,Python,Marketing Digital,Intermedio,Universitario,Español,2026-04-27 12:05:00,8,Con historial
+230,Data Science,Python,Avanzado,Autodidacta,Español,2026-01-23 04:37:00,14,Con historial
+231,Python,Ninguno,Avanzado,Autodidacta,Portugués,2026-05-18 00:10:00,9,Con historial
+232,Data Science,Ninguno,Principiante,Autodidacta,Español,2026-03-19 16:22:00,23,Con historial
+233,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-02-20 10:58:00,27,Con historial
+234,Python,Ninguno,Principiante,Profesional,Español,2026-01-24 13:18:00,17,Con historial
+235,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-02 18:31:00,21,Con historial
+236,Python,Data Science,Avanzado,Autodidacta,Español,2026-02-07 04:37:00,40,Con historial
+237,Python,Marketing Digital,Principiante,Profesional,Español,2026-05-18 02:28:00,17,Con historial
+238,Python,Ninguno,Intermedio,Profesional,Portugués,2026-04-30 14:09:00,16,Con historial
+239,Python,Data Science,Intermedio,Universitario,Español,2026-05-26 11:15:00,16,Con historial
+240,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-01-16 02:44:00,28,Con historial
+241,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-03-30 19:51:00,2,Historial insuficiente
+242,Marketing Digital,Python,Intermedio,Profesional,Español,2026-02-08 13:45:00,7,Con historial
+243,Python,Ninguno,Intermedio,Universitario,Español,2026-03-23 10:35:00,1,Historial insuficiente
+244,Marketing Digital,Data Science,Principiante,Profesional,Portugués,2026-02-18 01:38:00,27,Con historial
+245,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-02-12 12:29:00,17,Con historial
+246,Python,Ninguno,Intermedio,Profesional,Español,2026-03-28 01:51:00,27,Con historial
+247,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-01-28 11:57:00,3,Historial insuficiente
+248,Data Science,Ninguno,Avanzado,Universitario,Español,2026-03-12 08:53:00,6,Con historial
+249,Marketing Digital,Python,Principiante,Autodidacta,Portugués,2026-04-08 14:55:00,13,Con historial
+250,Marketing Digital,Ninguno,Principiante,Profesional,Español,2026-01-20 05:27:00,17,Con historial
+251,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-20 14:08:00,13,Con historial
+252,Marketing Digital,Data Science,Intermedio,Universitario,Español,2026-03-17 20:37:00,33,Con historial
+253,Marketing Digital,Ninguno,Intermedio,Universitario,Español,2026-05-03 22:18:00,10,Con historial
+254,Data Science,Ninguno,Principiante,Profesional,Español,2026-04-09 02:04:00,16,Con historial
+255,Marketing Digital,Data Science,Avanzado,Autodidacta,Español,2026-04-17 12:00:00,27,Con historial
+256,Python,Data Science,Principiante,Profesional,Español,2026-04-18 10:04:00,24,Con historial
+257,Data Science,Ninguno,Principiante,Universitario,Inglés,2026-05-12 06:22:00,9,Con historial
+258,Python,Data Science,Principiante,Autodidacta,Español,2026-04-03 00:59:00,9,Con historial
+259,Python,Data Science,Principiante,Universitario,Español,2026-02-11 17:35:00,27,Con historial
+260,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-01-15 22:14:00,15,Con historial
+261,Data Science,Ninguno,Principiante,Universitario,Español,2026-04-01 22:30:00,7,Con historial
+262,Marketing Digital,Ninguno,Intermedio,Profesional,Portugués,2026-01-10 22:52:00,11,Con historial
+263,Python,Ninguno,Principiante,Autodidacta,Español,2026-02-06 04:39:00,2,Historial insuficiente
+264,Python,Data Science,Avanzado,Universitario,Portugués,2026-01-10 02:33:00,24,Con historial
+265,Python,Marketing Digital,Principiante,Profesional,Portugués,2026-03-24 08:00:00,3,Historial insuficiente
+266,Marketing Digital,Python,Avanzado,Autodidacta,Español,2026-01-25 01:13:00,31,Con historial
+267,Python,Marketing Digital,Principiante,Universitario,Español,2026-04-02 13:28:00,17,Con historial
+268,Data Science,Ninguno,Principiante,Universitario,Inglés,2026-04-29 15:07:00,22,Con historial
+269,Python,Ninguno,Intermedio,Profesional,Español,2026-05-04 06:46:00,4,Historial insuficiente
+270,Data Science,Ninguno,Intermedio,Universitario,Español,2026-02-16 10:21:00,24,Con historial
+271,Python,Data Science,Intermedio,Universitario,Inglés,2026-03-24 08:14:00,34,Con historial
+272,Python,Data Science,Principiante,Profesional,Portugués,2026-03-26 10:50:00,36,Con historial
+273,Data Science,Marketing Digital,Intermedio,Autodidacta,Español,2026-03-12 22:24:00,17,Con historial
+274,Marketing Digital,Ninguno,Avanzado,Universitario,Español,2026-04-09 06:25:00,16,Con historial
+275,Data Science,Ninguno,Intermedio,Universitario,Español,2026-02-01 12:19:00,34,Con historial
+276,Python,Ninguno,Principiante,Autodidacta,Portugués,2026-05-27 21:17:00,13,Con historial
+277,Data Science,Python,Intermedio,Profesional,Español,2026-01-15 17:05:00,1,Historial insuficiente
+278,Python,Marketing Digital,Intermedio,Autodidacta,Español,2026-05-05 09:12:00,9,Con historial
+279,Data Science,Ninguno,Avanzado,Universitario,Español,2026-03-31 02:45:00,3,Historial insuficiente
+280,Python,Marketing Digital,Principiante,Autodidacta,Inglés,2026-02-06 17:29:00,6,Con historial
+281,Python,Data Science,Principiante,Profesional,Portugués,2026-04-22 20:26:00,28,Con historial
+282,Marketing Digital,Python,Intermedio,Universitario,Español,2026-01-13 16:08:00,9,Con historial
+283,Python,Ninguno,Intermedio,Autodidacta,Español,2026-04-27 03:54:00,5,Con historial
+284,Python,Data Science,Intermedio,Profesional,Inglés,2026-03-30 11:57:00,11,Con historial
+285,Python,Data Science,Principiante,Universitario,Inglés,2026-01-17 14:42:00,48,Con historial
+286,Data Science,Ninguno,Principiante,Universitario,Español,2026-01-12 22:13:00,8,Con historial
+287,Marketing Digital,Ninguno,Intermedio,Profesional,Español,2026-04-23 15:01:00,21,Con historial
+288,Data Science,Python,Principiante,Universitario,Español,2026-02-13 22:34:00,20,Con historial
+289,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-05-14 09:29:00,6,Con historial
+290,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-04-25 07:28:00,8,Con historial
+291,Marketing Digital,Data Science,Intermedio,Universitario,Español,2026-04-15 17:29:00,23,Con historial
+292,Marketing Digital,Python,Avanzado,Universitario,Español,2026-02-11 18:59:00,34,Con historial
+293,Marketing Digital,Ninguno,Principiante,Profesional,Portugués,2026-04-17 08:12:00,13,Con historial
+294,Marketing Digital,Python,Principiante,Universitario,Español,2026-05-23 05:20:00,11,Con historial
+295,Python,Ninguno,Avanzado,Universitario,Español,2026-01-14 17:37:00,12,Con historial
+296,Python,Ninguno,Principiante,Profesional,Español,2026-02-18 22:11:00,3,Historial insuficiente
+297,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-02-05 04:49:00,15,Con historial
+298,Marketing Digital,Data Science,Principiante,Profesional,Español,2026-02-28 23:42:00,27,Con historial
+299,Python,Marketing Digital,Intermedio,Universitario,Español,2026-04-22 08:24:00,2,Historial insuficiente
+300,Data Science,Marketing Digital,Avanzado,Universitario,Español,2026-03-13 03:16:00,30,Con historial
+301,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-03-27 14:38:00,36,Con historial
+302,Data Science,Python,Intermedio,Profesional,Inglés,2026-02-17 02:57:00,5,Con historial
+303,Python,Ninguno,Principiante,Universitario,Español,2026-01-22 04:38:00,2,Historial insuficiente
+304,Marketing Digital,Ninguno,Principiante,Autodidacta,Inglés,2026-02-10 00:58:00,17,Con historial
+305,Python,Data Science,Principiante,Universitario,Inglés,2026-05-09 22:51:00,13,Con historial
+306,Python,Marketing Digital,Principiante,Profesional,Portugués,2026-04-01 08:42:00,14,Con historial
+307,Data Science,Ninguno,Principiante,Profesional,Español,2026-02-26 16:46:00,16,Con historial
+308,Python,Marketing Digital,Principiante,Universitario,Español,2026-04-29 11:40:00,20,Con historial
+309,Python,Ninguno,Principiante,Profesional,Español,2026-01-10 16:03:00,55,Con historial
+310,Data Science,Ninguno,Intermedio,Universitario,Español,2026-02-08 02:00:00,22,Con historial
+311,Marketing Digital,Ninguno,Intermedio,Universitario,Español,2026-02-04 12:22:00,30,Con historial
+312,Data Science,Ninguno,Principiante,Universitario,Inglés,2026-05-28 19:19:00,3,Historial insuficiente
+313,Data Science,Marketing Digital,Principiante,Autodidacta,Español,2026-04-16 21:57:00,32,Con historial
+314,Data Science,Marketing Digital,Intermedio,Autodidacta,Portugués,2026-04-03 16:02:00,12,Con historial
+315,Python,Marketing Digital,Intermedio,Universitario,Español,2026-01-01 17:57:00,22,Con historial
+316,Marketing Digital,Data Science,Intermedio,Profesional,Español,2026-01-28 15:31:00,0,Sin historial
+317,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-04-06 07:57:00,3,Historial insuficiente
+318,Python,Data Science,Intermedio,Universitario,Español,2026-02-26 22:59:00,5,Con historial
+319,Marketing Digital,Python,Principiante,Autodidacta,Español,2026-05-19 15:25:00,12,Con historial
+320,Python,Marketing Digital,Principiante,Profesional,Español,2026-04-25 17:00:00,21,Con historial
+321,Python,Data Science,Principiante,Autodidacta,Español,2026-03-09 02:35:00,12,Con historial
+322,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-04-23 10:15:00,17,Con historial
+323,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-05-27 07:27:00,12,Con historial
+324,Python,Ninguno,Principiante,Universitario,Inglés,2026-03-11 03:32:00,10,Con historial
+325,Python,Marketing Digital,Intermedio,Profesional,Español,2026-04-07 09:06:00,2,Historial insuficiente
+326,Python,Marketing Digital,Principiante,Universitario,Español,2026-05-18 19:12:00,6,Con historial
+327,Data Science,Python,Principiante,Universitario,Español,2026-02-07 07:14:00,25,Con historial
+328,Python,Data Science,Principiante,Autodidacta,Español,2026-05-13 23:37:00,19,Con historial
+329,Python,Data Science,Principiante,Universitario,Español,2026-01-15 15:10:00,6,Con historial
+330,Data Science,Ninguno,Principiante,Profesional,Español,2026-04-08 06:25:00,3,Historial insuficiente
+331,Marketing Digital,Python,Principiante,Autodidacta,Inglés,2026-04-28 10:13:00,10,Con historial
+332,Python,Ninguno,Principiante,Universitario,Español,2026-04-03 04:35:00,17,Con historial
+333,Data Science,Ninguno,Intermedio,Profesional,Español,2026-03-16 07:56:00,35,Con historial
+334,Marketing Digital,Python,Avanzado,Autodidacta,Español,2026-04-03 14:27:00,36,Con historial
+335,Python,Ninguno,Principiante,Profesional,Español,2026-01-23 17:59:00,3,Historial insuficiente
+336,Data Science,Marketing Digital,Intermedio,Universitario,Español,2026-02-02 08:03:00,26,Con historial
+337,Marketing Digital,Data Science,Avanzado,Universitario,Español,2026-02-10 11:38:00,7,Con historial
+338,Marketing Digital,Ninguno,Avanzado,Autodidacta,Español,2026-03-31 16:00:00,12,Con historial
+339,Data Science,Python,Intermedio,Universitario,Español,2026-03-08 06:51:00,7,Con historial
+340,Python,Data Science,Avanzado,Profesional,Español,2026-02-06 16:07:00,13,Con historial
+341,Python,Marketing Digital,Avanzado,Universitario,Español,2026-05-13 10:07:00,2,Historial insuficiente
+342,Data Science,Python,Intermedio,Universitario,Español,2026-02-26 02:07:00,7,Con historial
+343,Python,Ninguno,Principiante,Autodidacta,Español,2026-03-08 21:43:00,2,Historial insuficiente
+344,Python,Ninguno,Principiante,Profesional,Español,2026-03-03 10:55:00,4,Historial insuficiente
+345,Data Science,Python,Principiante,Autodidacta,Español,2026-01-28 07:00:00,24,Con historial
+346,Python,Marketing Digital,Principiante,Universitario,Español,2026-04-20 17:51:00,19,Con historial
+347,Data Science,Marketing Digital,Principiante,Profesional,Inglés,2026-03-09 06:27:00,14,Con historial
+348,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-01-03 10:32:00,8,Con historial
+349,Python,Marketing Digital,Intermedio,Universitario,Español,2026-05-25 14:27:00,6,Con historial
+350,Python,Marketing Digital,Intermedio,Universitario,Portugués,2026-05-03 08:45:00,15,Con historial
+351,Data Science,Ninguno,Intermedio,Autodidacta,Portugués,2026-04-19 12:49:00,25,Con historial
+352,Python,Marketing Digital,Principiante,Universitario,Español,2026-05-11 08:44:00,6,Con historial
+353,Data Science,Python,Principiante,Profesional,Español,2026-05-17 00:30:00,10,Con historial
+354,Data Science,Python,Intermedio,Autodidacta,Español,2026-02-20 14:58:00,16,Con historial
+355,Data Science,Marketing Digital,Intermedio,Universitario,Portugués,2026-04-02 15:27:00,12,Con historial
+356,Python,Marketing Digital,Avanzado,Universitario,Español,2026-04-02 07:42:00,18,Con historial
+357,Data Science,Marketing Digital,Avanzado,Universitario,Inglés,2026-02-10 02:17:00,41,Con historial
+358,Python,Data Science,Avanzado,Universitario,Español,2026-02-03 07:02:00,14,Con historial
+359,Python,Ninguno,Principiante,Universitario,Portugués,2026-01-18 02:04:00,12,Con historial
+360,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-04-09 21:32:00,17,Con historial
+361,Data Science,Ninguno,Principiante,Universitario,Español,2026-04-28 03:19:00,13,Con historial
+362,Data Science,Ninguno,Intermedio,Profesional,Español,2026-04-25 03:26:00,16,Con historial
+363,Marketing Digital,Data Science,Avanzado,Universitario,Español,2026-02-17 10:35:00,3,Historial insuficiente
+364,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-31 18:56:00,27,Con historial
+365,Data Science,Ninguno,Intermedio,Universitario,Español,2026-03-10 01:01:00,8,Con historial
+366,Python,Ninguno,Principiante,Profesional,Español,2026-03-24 00:32:00,9,Con historial
+367,Data Science,Ninguno,Principiante,Profesional,Español,2026-05-18 20:43:00,10,Con historial
+368,Python,Marketing Digital,Principiante,Universitario,Portugués,2026-05-12 05:22:00,14,Con historial
+369,Python,Marketing Digital,Principiante,Autodidacta,Portugués,2026-05-18 09:49:00,12,Con historial
+370,Python,Data Science,Avanzado,Profesional,Español,2026-05-08 12:57:00,10,Con historial
+371,Python,Ninguno,Principiante,Universitario,Español,2026-05-25 16:30:00,15,Con historial
+372,Python,Ninguno,Intermedio,Autodidacta,Español,2026-03-11 19:48:00,9,Con historial
+373,Data Science,Ninguno,Intermedio,Universitario,Inglés,2026-01-08 02:54:00,0,Sin historial
+374,Data Science,Ninguno,Principiante,Universitario,Español,2026-01-13 12:49:00,0,Sin historial
+375,Data Science,Python,Principiante,Profesional,Español,2026-02-28 13:00:00,28,Con historial
+376,Marketing Digital,Ninguno,Intermedio,Universitario,Inglés,2026-02-08 15:40:00,26,Con historial
+377,Python,Marketing Digital,Principiante,Universitario,Inglés,2026-01-26 11:47:00,11,Con historial
+378,Python,Marketing Digital,Avanzado,Profesional,Español,2026-05-23 23:32:00,14,Con historial
+379,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-30 07:31:00,54,Con historial
+380,Data Science,Ninguno,Intermedio,Autodidacta,Español,2026-05-24 21:46:00,13,Con historial
+381,Python,Data Science,Intermedio,Autodidacta,Portugués,2026-04-25 03:01:00,16,Con historial
+382,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-04-07 03:24:00,6,Con historial
+383,Data Science,Marketing Digital,Principiante,Profesional,Español,2026-04-12 09:40:00,31,Con historial
+384,Python,Ninguno,Avanzado,Profesional,Español,2026-02-19 17:18:00,15,Con historial
+385,Python,Marketing Digital,Principiante,Autodidacta,Español,2026-04-07 23:08:00,15,Con historial
+386,Marketing Digital,Python,Principiante,Universitario,Español,2026-01-29 00:05:00,12,Con historial
+387,Data Science,Python,Principiante,Universitario,Español,2026-05-21 15:44:00,1,Historial insuficiente
+388,Marketing Digital,Python,Principiante,Profesional,Portugués,2026-02-15 06:27:00,18,Con historial
+389,Data Science,Ninguno,Intermedio,Profesional,Portugués,2026-02-08 06:40:00,16,Con historial
+390,Python,Marketing Digital,Intermedio,Universitario,Español,2026-04-17 16:11:00,22,Con historial
+391,Python,Data Science,Principiante,Profesional,Portugués,2026-04-09 11:13:00,17,Con historial
+392,Data Science,Ninguno,Intermedio,Universitario,Español,2026-03-09 16:41:00,19,Con historial
+393,Data Science,Ninguno,Principiante,Autodidacta,Español,2026-04-05 20:48:00,23,Con historial
+394,Data Science,Python,Principiante,Universitario,Español,2026-01-24 22:11:00,26,Con historial
+395,Python,Data Science,Intermedio,Universitario,Portugués,2026-04-11 23:59:00,21,Con historial
+396,Marketing Digital,Python,Avanzado,Universitario,Portugués,2026-02-10 14:12:00,51,Con historial
+397,Python,Marketing Digital,Principiante,Universitario,Inglés,2026-02-10 22:13:00,16,Con historial
+398,Python,Marketing Digital,Principiante,Universitario,Portugués,2026-01-25 07:51:00,26,Con historial
+399,Marketing Digital,Python,Intermedio,Universitario,Inglés,2026-02-19 20:33:00,17,Con historial
+400,Data Science,Ninguno,Intermedio,Universitario,Español,2026-02-19 16:30:00,1,Historial insuficiente
+401,Python,Data Science,Principiante,Universitario,Inglés,2026-03-10 03:03:00,24,Con historial
+402,Data Science,Ninguno,Principiante,Universitario,Español,2026-01-29 13:31:00,1,Historial insuficiente
+403,Marketing Digital,Ninguno,Intermedio,Universitario,Español,2026-01-29 22:50:00,17,Con historial
+404,Python,Data Science,Principiante,Universitario,Español,2026-03-23 06:16:00,36,Con historial
+405,Python,Ninguno,Principiante,Universitario,Español,2026-01-20 07:58:00,14,Con historial
+406,Python,Data Science,Principiante,Universitario,Español,2026-04-14 08:02:00,24,Con historial
+407,Data Science,Python,Principiante,Universitario,Español,2026-05-22 14:13:00,10,Con historial
+408,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-03-06 00:28:00,0,Sin historial
+409,Marketing Digital,Ninguno,Avanzado,Autodidacta,Español,2026-05-16 03:59:00,9,Con historial
+410,Marketing Digital,Data Science,Intermedio,Autodidacta,Portugués,2026-01-15 17:56:00,13,Con historial
+411,Data Science,Marketing Digital,Intermedio,Autodidacta,Español,2026-01-07 10:39:00,21,Con historial
+412,Data Science,Marketing Digital,Avanzado,Profesional,Español,2026-04-19 04:56:00,0,Sin historial
+413,Data Science,Ninguno,Principiante,Profesional,Español,2026-04-25 03:41:00,26,Con historial
+414,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-07 11:01:00,8,Con historial
+415,Marketing Digital,Ninguno,Avanzado,Autodidacta,Español,2026-01-09 12:33:00,35,Con historial
+416,Marketing Digital,Ninguno,Principiante,Autodidacta,Portugués,2026-04-27 12:52:00,16,Con historial
+417,Python,Marketing Digital,Intermedio,Autodidacta,Español,2026-02-26 11:32:00,23,Con historial
+418,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-02-15 12:01:00,35,Con historial
+419,Marketing Digital,Python,Principiante,Universitario,Portugués,2026-01-26 22:53:00,13,Con historial
+420,Data Science,Ninguno,Principiante,Autodidacta,Español,2026-05-30 09:39:00,8,Con historial
+421,Marketing Digital,Ninguno,Principiante,Autodidacta,Portugués,2026-01-10 13:11:00,14,Con historial
+422,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-05 01:14:00,6,Con historial
+423,Data Science,Marketing Digital,Principiante,Autodidacta,Portugués,2026-04-06 22:11:00,0,Sin historial
+424,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-04-21 06:17:00,31,Con historial
+425,Marketing Digital,Data Science,Intermedio,Autodidacta,Portugués,2026-04-17 18:11:00,17,Con historial
+426,Data Science,Ninguno,Avanzado,Autodidacta,Español,2026-05-09 18:22:00,15,Con historial
+427,Marketing Digital,Python,Intermedio,Universitario,Portugués,2026-01-28 13:39:00,12,Con historial
+428,Marketing Digital,Python,Principiante,Profesional,Inglés,2026-01-01 02:58:00,11,Con historial
+429,Python,Marketing Digital,Principiante,Universitario,Español,2026-03-31 18:42:00,0,Sin historial
+430,Python,Marketing Digital,Principiante,Autodidacta,Portugués,2026-02-23 01:53:00,45,Con historial
+431,Python,Data Science,Principiante,Autodidacta,Español,2026-01-19 13:38:00,12,Con historial
+432,Data Science,Ninguno,Avanzado,Profesional,Español,2026-01-28 22:06:00,39,Con historial
+433,Python,Marketing Digital,Principiante,Autodidacta,Inglés,2026-02-19 18:18:00,9,Con historial
+434,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-01-11 12:50:00,8,Con historial
+435,Marketing Digital,Data Science,Intermedio,Universitario,Español,2026-01-09 12:53:00,46,Con historial
+436,Python,Data Science,Principiante,Universitario,Español,2026-05-18 09:42:00,12,Con historial
+437,Marketing Digital,Data Science,Principiante,Universitario,Español,2026-02-16 19:34:00,34,Con historial
+438,Marketing Digital,Data Science,Principiante,Universitario,Portugués,2026-05-28 08:02:00,13,Con historial
+439,Python,Marketing Digital,Intermedio,Universitario,Español,2026-05-25 15:43:00,9,Con historial
+440,Python,Marketing Digital,Intermedio,Universitario,Español,2026-01-22 09:15:00,19,Con historial
+441,Python,Ninguno,Principiante,Universitario,Español,2026-04-18 05:44:00,15,Con historial
+442,Marketing Digital,Data Science,Avanzado,Autodidacta,Español,2026-04-01 02:54:00,21,Con historial
+443,Marketing Digital,Data Science,Avanzado,Universitario,Portugués,2026-04-14 14:20:00,13,Con historial
+444,Python,Data Science,Intermedio,Autodidacta,Portugués,2026-01-15 10:17:00,12,Con historial
+445,Data Science,Ninguno,Principiante,Universitario,Español,2026-01-29 06:49:00,11,Con historial
+446,Python,Marketing Digital,Principiante,Universitario,Español,2026-01-12 11:54:00,9,Con historial
+447,Marketing Digital,Ninguno,Avanzado,Profesional,Español,2026-04-01 14:53:00,5,Con historial
+448,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-05-28 23:44:00,3,Historial insuficiente
+449,Data Science,Ninguno,Intermedio,Universitario,Español,2026-04-11 19:09:00,14,Con historial
+450,Python,Ninguno,Intermedio,Profesional,Español,2026-04-17 14:44:00,24,Con historial
+451,Data Science,Ninguno,Principiante,Universitario,Español,2026-05-28 16:30:00,16,Con historial
+452,Data Science,Python,Intermedio,Universitario,Español,2026-04-12 16:50:00,27,Con historial
+453,Data Science,Ninguno,Avanzado,Profesional,Español,2026-01-07 00:39:00,53,Con historial
+454,Data Science,Python,Intermedio,Universitario,Español,2026-05-11 01:13:00,16,Con historial
+455,Data Science,Marketing Digital,Principiante,Autodidacta,Portugués,2026-02-24 16:51:00,49,Con historial
+456,Python,Ninguno,Avanzado,Universitario,Español,2026-01-01 15:43:00,45,Con historial
+457,Data Science,Marketing Digital,Intermedio,Autodidacta,Español,2026-03-18 02:03:00,11,Con historial
+458,Python,Marketing Digital,Intermedio,Autodidacta,Portugués,2026-05-21 13:15:00,6,Con historial
+459,Python,Marketing Digital,Intermedio,Autodidacta,Portugués,2026-02-08 14:23:00,24,Con historial
+460,Marketing Digital,Ninguno,Intermedio,Autodidacta,Español,2026-03-15 17:27:00,23,Con historial
+461,Data Science,Python,Principiante,Universitario,Español,2026-01-27 01:36:00,4,Historial insuficiente
+462,Marketing Digital,Ninguno,Principiante,Profesional,Español,2026-01-09 15:42:00,17,Con historial
+463,Data Science,Python,Principiante,Universitario,Español,2026-01-13 01:58:00,18,Con historial
+464,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-04-20 01:14:00,20,Con historial
+465,Python,Marketing Digital,Intermedio,Profesional,Español,2026-05-10 14:40:00,17,Con historial
+466,Python,Data Science,Intermedio,Universitario,Español,2026-01-22 11:53:00,12,Con historial
+467,Python,Ninguno,Principiante,Autodidacta,Español,2026-02-13 05:57:00,13,Con historial
+468,Data Science,Marketing Digital,Intermedio,Universitario,Inglés,2026-01-30 06:06:00,24,Con historial
+469,Python,Ninguno,Avanzado,Profesional,Español,2026-01-05 00:41:00,22,Con historial
+470,Python,Ninguno,Principiante,Profesional,Portugués,2026-03-25 00:21:00,0,Sin historial
+471,Marketing Digital,Ninguno,Intermedio,Universitario,Inglés,2026-04-15 23:43:00,14,Con historial
+472,Python,Ninguno,Intermedio,Profesional,Portugués,2026-04-08 04:22:00,25,Con historial
+473,Data Science,Marketing Digital,Intermedio,Autodidacta,Español,2026-02-28 05:00:00,14,Con historial
+474,Data Science,Marketing Digital,Principiante,Universitario,Portugués,2026-03-25 06:02:00,7,Con historial
+475,Marketing Digital,Ninguno,Intermedio,Profesional,Español,2026-01-15 02:45:00,20,Con historial
+476,Data Science,Marketing Digital,Avanzado,Universitario,Español,2026-01-24 03:30:00,44,Con historial
+477,Data Science,Marketing Digital,Intermedio,Profesional,Portugués,2026-05-20 18:28:00,4,Historial insuficiente
+478,Python,Marketing Digital,Avanzado,Universitario,Español,2026-04-25 05:26:00,8,Con historial
+479,Python,Marketing Digital,Avanzado,Autodidacta,Español,2026-05-19 09:52:00,9,Con historial
+480,Marketing Digital,Ninguno,Principiante,Autodidacta,Español,2026-05-18 12:03:00,6,Con historial
+481,Python,Ninguno,Intermedio,Universitario,Portugués,2026-04-08 09:49:00,23,Con historial
+482,Python,Marketing Digital,Principiante,Universitario,Español,2026-05-20 05:40:00,13,Con historial
+483,Data Science,Marketing Digital,Avanzado,Profesional,Español,2026-03-04 12:08:00,12,Con historial
+484,Marketing Digital,Python,Principiante,Profesional,Portugués,2026-01-01 13:01:00,20,Con historial
+485,Marketing Digital,Python,Principiante,Universitario,Español,2026-01-10 09:15:00,5,Con historial
+486,Data Science,Marketing Digital,Avanzado,Universitario,Español,2026-01-17 10:09:00,32,Con historial
+487,Python,Ninguno,Principiante,Universitario,Español,2026-01-15 07:16:00,24,Con historial
+488,Marketing Digital,Data Science,Intermedio,Autodidacta,Inglés,2026-02-22 18:08:00,19,Con historial
+489,Marketing Digital,Python,Principiante,Profesional,Español,2026-04-16 04:34:00,5,Con historial
+490,Data Science,Marketing Digital,Avanzado,Autodidacta,Español,2026-04-29 14:20:00,5,Con historial
+491,Data Science,Marketing Digital,Avanzado,Profesional,Español,2026-03-30 12:46:00,29,Con historial
+492,Python,Marketing Digital,Principiante,Autodidacta,Portugués,2026-01-22 23:10:00,28,Con historial
+493,Data Science,Python,Intermedio,Universitario,Español,2026-04-23 04:27:00,15,Con historial
+494,Data Science,Marketing Digital,Principiante,Universitario,Español,2026-02-23 05:17:00,26,Con historial
+495,Data Science,Ninguno,Intermedio,Autodidacta,Inglés,2026-01-02 22:47:00,15,Con historial
+496,Marketing Digital,Python,Intermedio,Autodidacta,Español,2026-02-12 02:07:00,23,Con historial
+497,Marketing Digital,Ninguno,Intermedio,Universitario,Español,2026-02-19 14:10:00,21,Con historial
+498,Marketing Digital,Ninguno,Principiante,Universitario,Español,2026-02-11 03:17:00,23,Con historial
+499,Data Science,Ninguno,Principiante,Profesional,Portugués,2026-05-02 18:44:00,18,Con historial
+500,Data Science,Python,Intermedio,Universitario,Español,2026-04-24 23:44:00,9,Con historial
