@@ -19,5 +19,15 @@
     "Recall": 0.591,
     "HitRate": 0.7434,
     "NDCG": 0.3785
+  },
+  "cold_start": {
+    "umbral_eventos_historial": 5,
+    "estrategia": "E4. Perfil completo (interés principal y secundario, idioma, nivel + popularidad en train)",
+    "formulario_usuario_nuevo": [
+      "interes_principal",
+      "idioma",
+      "nivel_experiencia",
+      "interes_secundario (opcional)"
+    ]
   }
 }
