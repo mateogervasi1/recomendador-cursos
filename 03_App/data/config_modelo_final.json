@@ -2,11 +2,11 @@
   "modelo_final": "Híbrido SVD+Perfil",
   "k_recomendado": 5,
   "hiperparametros": {
-    "n_vecinos": 120,
-    "n_factores": 5,
-    "lambda_ease": 10000.0,
-    "peso_svd_hibrido_pop": 0.8,
-    "peso_svd_hibrido_perfil": 0.4,
+    "n_vecinos": 80,
+    "n_factores": 3,
+    "lambda_ease": 2000.0,
+    "peso_svd_hibrido_pop": 0.6,
+    "peso_svd_hibrido_perfil": 0.6,
     "perfil": {
       "peso_secundario": 0.5,
       "factor_idioma": 0.4,
@@ -15,10 +15,10 @@
   },
   "respaldo_cold_start": "Perfil declarado (popularidad ponderada por interés, idioma y nivel)",
   "metricas_test_k10": {
-    "Precision": 0.1037,
-    "Recall": 0.5699,
-    "HitRate": 0.7523,
-    "NDCG": 0.3447
+    "Precision": 0.0976,
+    "Recall": 0.4921,
+    "HitRate": 0.6429,
+    "NDCG": 0.3099
   },
   "cold_start": {
     "umbral_eventos_historial": 5,
